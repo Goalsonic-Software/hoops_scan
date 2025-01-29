@@ -10,7 +10,7 @@
   // dbsettings: a collection of settings that allow the explorer to connect to MongoDB
   "dbsettings": {
     // user: The MongoDB username
-    "user": "hoops",
+    "user": "sora",
     // password: The MongoDB password
     "password": "3xp!0reR$",
     // database: The MongoDB database name (default: explorerdb)
@@ -26,7 +26,7 @@
     // host: The hostname or ip address of the wallet to connect to (default: localhost)
     "host": "localhost",
     // port: The port # that the wallet is configured to listen for RPC requests on (default: 51573 for Sora wallet)
-    "port": 41131,
+    "port": 42131,
     // username: The wallet RPC username
     "username": "sora",
     // password: The wallet RPC password
