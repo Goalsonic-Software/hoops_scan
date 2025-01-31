@@ -30,7 +30,7 @@
     // username: The wallet RPC username
     "username": "sora",
     // password: The wallet RPC password
-    "password": "sSTLyCkrD94Y8&9mr^m6W^Mk367Vr!!K"
+    "password": "5y5t3-D3v-rPC&%%hoops%oK"
   },
 
   // webserver: a collection of settings that pertain to the node.js express web framework (read more: https://www.npmjs.com/package/express)
